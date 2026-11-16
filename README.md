@@ -41,6 +41,12 @@ v5.1.0の配布パッケージには、公開技術仕様書33ファイル（Mar
 
 最新仕様は公式サイトを参照してください。
 
+## 開発背景・技術記事
+
+AD-EDITの誕生からAD-EDIT5への再設計まで、約20年間の開発の歩みと設計思想をQiitaで紹介しています。
+
+- [ガラケー時代に生まれたPerl CGI製CMSを、AIエージェント時代に再設計した話【AD-EDIT5】](https://qiita.com/NorenzPRO/items/19c1893624a62d51bff5)
+
 ---
 
 ## About AD-EDIT5
